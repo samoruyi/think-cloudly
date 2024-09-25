@@ -1,0 +1,11 @@
+Git Cheat Sheet
+Git basics
+· git init — Create new local repository.
+· git clone <Url> — Clone existing remote repository.
+· git add — stage all changes.
+· git status — List all new /modified files to be committed.
+· git commit -m <message> — Commit staged Changes to local repository.
+· git push — Push local commits to remove repository.
+· git pull — Download & merge commits from remote repository.
+· git log — List version history of current branch.
+· git config — global user.name <name> — To se
